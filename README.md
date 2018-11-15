@@ -1,0 +1,2 @@
+# WebLogicPasswordDecryptor
+weblogic加密工具
